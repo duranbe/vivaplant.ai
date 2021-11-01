@@ -1,0 +1,8 @@
+Pillow
+fastapi
+uvicorn
+pydantic
+numpy
+Keras==2.4.3
+tensorflow==2.4.1
+python-multipart
