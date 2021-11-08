@@ -16,3 +16,7 @@ The deep learning model was trained on AWS Sagemaker and deployed as a dockerize
 ### Model Download 
 
 [**Drive**](https://drive.google.com/file/d/1yQ-lWdRHvneYvAGrEQs2qNCBt9N9CdFe/view)
+
+### Docker Hub Image
+
+[**Docker**](https://hub.docker.com/repository/docker/duranbe/vivaplant)
