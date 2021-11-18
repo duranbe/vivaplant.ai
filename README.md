@@ -6,6 +6,7 @@ Developped a mobile application that takes an image of a plant and predicts whet
 
 The deep learning model was trained on AWS Sagemaker and deployed as a dockerized api on AWS ECS.
 
+The model use transfer learning based on VGG16 with some more layers to classify plants diseases
 
 ### Team
 - [**Rahuj Raj**](https://www.linkedin.com/in/iamrraj/)
